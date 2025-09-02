@@ -1,4 +1,4 @@
-//progra to understand the basics of string
+//program to understand the basics of string
 #include<iostream>
 #include<string>
 #include <algorithm>
