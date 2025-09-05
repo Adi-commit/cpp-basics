@@ -4,7 +4,7 @@ using namespace std;
 
 //function if we already know the number we want to achieve
 int printn(int n){
-    if(n==5) return n; //base case
+    if(n==6) return n; //base case
     cout<<n<<endl; //work
     printn(n+1); //call
 }
